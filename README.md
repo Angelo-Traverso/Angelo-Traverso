@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Angelo Traverso 👨‍💻 Currently Studying at Varsity College🚀</div>  
+### <div align="center">I'm Angelo Traverso 👨‍💻 A Recent Postgraduate Graduate in Data Analytics🚀</div>  
   
 
 - 🔍I love problem solving  
