@@ -9,7 +9,7 @@
 - 🔍I love problem solving  
   
 
-- 🌱I'm currently growing my android skills  
+- 🌱Computer Science Graduate
   
 
 - ⚡ Fun fact: I have a secret love for micro-controllers  
