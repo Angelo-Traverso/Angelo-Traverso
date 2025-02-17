@@ -40,7 +40,8 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="50" /></a>
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" /></a>  
 <a href="https://www.google.com/sheets/about/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Microsoft Excel" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019-present%29.svg" alt="Microsoft Excel" height="50" /></a>
+
 
 </div>
 
