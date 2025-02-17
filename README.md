@@ -59,14 +59,8 @@
 <a href="https://github.com/Angelo-Traverso" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
 </a>
-<a href="https://twitter.com/atraverso2001" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter />
-</a>
 <a href="https://linkedin.com/in/angelo-traverso" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
-</a>
-<a href="https://instagram.com/atraverso2001" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram />
 </a>
 <a href="https://stackoverflow.com/users/AngeloTraverso" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow />
